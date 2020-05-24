@@ -1,2 +1,2 @@
-# Secon Project
+# Second Project
  Responsive Website
